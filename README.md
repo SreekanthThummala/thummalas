@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thummalas
+- 👋 Hi, I’m Sreekanth Thummala
 - 👀 I’m interested in cloud, devops and new tech stuff
 - 🌱 I’m currently learning latest tech stacks...
 - 💞️ I’m looking to collaborate on intresting projects
