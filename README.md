@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning latest tech stacks...
 - 💞️ I’m looking to collaborate on intresting projects
 
+Languages and Tools:
+aws bash docker grafana jenkins kibana kubernetes linux mysql postgresql python
+
+
 
 <!---
 thummalas/thummalas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
